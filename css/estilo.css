@@ -1,0 +1,18 @@
+#carouselInicio {
+    max-height:500px;
+    max-width: auto;
+}
+
+#carouselInicio img {
+    max-height: 500px;
+    max-width: auto;
+}
+body {
+background-color: lightblue ;
+
+}
+
+
+#formSuccess {
+    display: none;
+}
